@@ -25,7 +25,7 @@ TODO: Add long description of the pod here.
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'krishnachaitanyavulchi' => 'chaitanya@thrymr.net' }
-  s.source           = { :git => 'https://github.com/krishnachaitanyavulchi/thrymrIos.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/krishnachaitanyavulchi/iOSThrymrFirstSdk.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 iOSThrymrFirstSdk
 
