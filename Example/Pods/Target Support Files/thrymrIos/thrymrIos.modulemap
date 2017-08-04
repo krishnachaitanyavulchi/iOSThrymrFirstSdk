@@ -1,0 +1,6 @@
+framework module thrymrIos {
+  umbrella header "thrymrIos-umbrella.h"
+
+  export *
+  module * { export * }
+}
