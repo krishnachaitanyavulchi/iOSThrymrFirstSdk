@@ -27,7 +27,7 @@ TODO: Add long description of the pod here.
   s.author           = { 'krishnachaitanyavulchi' => 'chaitanya@thrymr.net' }
   s.source           = { :git => 'https://github.com/krishnachaitanyavulchi/iOSThrymrFirstSdk.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
-iOSThrymrFirstSdk
+#iOSThrymrFirstSdk
 
   s.ios.deployment_target = '8.0'
 
